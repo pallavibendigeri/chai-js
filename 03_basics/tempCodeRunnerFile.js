@@ -1,1 +1,2 @@
-console.log(a);
+const user = {
+    username: "Pallavi",
